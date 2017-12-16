@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServerTest</string>
+    <color name="flat_green">#40d47e</color>
+    <color name="deepgreen">#27ae60</color>
+</resources>
